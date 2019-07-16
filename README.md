@@ -1,4 +1,4 @@
-## Titanic
+# Titanic
 Titanic Data EDA and Modelling
 
 ## How to use this repo
@@ -14,10 +14,10 @@ For running EDA and the Modell Run Cells or Run All
 
 ### Model 
 
-# 1.kNN
-# 2.Decision Tree
-# 3.Ramdom Forest
-# 4.Naive Bayes
-# 5.SVM
+## 1.kNN
+## 2.Decision Tree
+## 3.Ramdom Forest
+## 4.Naive Bayes
+## 5.SVM
 
 
