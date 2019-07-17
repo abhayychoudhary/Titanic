@@ -12,6 +12,10 @@ There are two code file in this repo
 
 For running EDA and the Modell Run Cells or Run All
 
+## Cross Validation (K-fold)
+
+Provides train/test indices to split data in train/test sets. Split dataset into k consecutive folds (without shuffling by default).
+
 ## Model 
 
 ### 1.kNN
