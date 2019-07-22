@@ -3,7 +3,7 @@ Titanic Data EDA and Modelling
 
 ## How to use this repo
 
-There are two code file in this repo
+There are two code file in this code
 
 1.``` Titanic_abhay.ipynb ```
 2.``` titanic.csv ```
