@@ -3,7 +3,7 @@
 
 ## How to use this code
 
-There are two code file in this code
+There are two file in this code
 
 1.``` Titanic_abhay.ipynb ```
 
