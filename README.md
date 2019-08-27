@@ -1,6 +1,5 @@
 # Titanic Data EDA and Modelling
 
-
 ## How to use this code
 
 There are two file in this code
