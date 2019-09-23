@@ -7,6 +7,7 @@ There are two file in this code
 1.``` Titanic_abhay.ipynb ```
 
 2.``` titanic.csv ```
+
 ## Running on Jupyter notebook
 
 For running EDA and the Modell Run Cells or Run All
