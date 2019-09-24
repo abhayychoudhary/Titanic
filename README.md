@@ -1,4 +1,4 @@
-# Titanic Data EDA and Modelling
+# Titanic data EDA and modelling
 
 ## How to use this code
 
