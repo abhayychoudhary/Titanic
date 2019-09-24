@@ -8,9 +8,9 @@ There are two file in this code
 
 2.``` titanic.csv ```
 
-## Running on Jupyter notebook
+## Running on jupyter notebook
 
-For running EDA and the Modell Run Cells or Run All
+For running EDA and the modell run cells or run all
 
 ## Cross Validation (K-fold)
 
