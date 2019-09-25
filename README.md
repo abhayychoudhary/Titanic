@@ -12,7 +12,7 @@ There are two file in this code
 
 For running EDA and the modell run cells or run all
 
-## Cross Validation (K-fold)
+## Cross validation (K-fold)
 
 Provides train/test indices to split data in train/test sets. Split dataset into k consecutive folds (without shuffling by default).
 
